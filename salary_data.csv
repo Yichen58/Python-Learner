@@ -1,0 +1,1001 @@
+age,years_experience,department,education_level,job_title,performance_rating,overtime_hours,location,salary
+57,10,HR,High School,Junior,2.36,18,Suburban,37342.0
+58,3,Marketing,Master,Junior,4.41,14,Suburban,61971.0
+63,5,Sales,High School,Mid-level,4.65,13,Rural,45674.0
+64,27,Operations,Bachelor,Senior,3.4,11,Urban,133901.0
+37,19,HR,Master,Senior,3.71,18,Suburban,159687.0
+63,27,Marketing,PhD,Mid-level,3.72,10,Suburban,155596.0
+28,32,Finance,Bachelor,Director,2.35,19,Urban,359367.0
+27,31,Engineering,Master,Mid-level,3.64,17,Urban,221373.0
+50,35,Operations,High School,Manager,1.04,2,Rural,111380.0
+53,26,Sales,Master,Manager,1.51,14,Urban,284801.0
+31,26,Finance,High School,Mid-level,1.35,3,Urban,106379.0
+31,24,Operations,Master,Director,2.56,11,Urban,311244.0
+51,12,Operations,PhD,Junior,4.03,1,Rural,67529.0
+36,39,Engineering,PhD,Lead,3.57,0,Urban,449183.0
+29,14,Operations,Bachelor,Director,4.11,12,Urban,215614.0
+36,29,Marketing,PhD,Lead,1.2,5,Urban,312522.0
+30,24,Operations,Master,Junior,3.78,8,Suburban,75791.0
+28,20,Sales,Bachelor,Junior,2.84,15,Suburban,78718.0
+26,8,Marketing,Bachelor,Lead,2.86,16,Suburban,137111.0
+39,2,Engineering,PhD,Director,4.78,20,Suburban,397458.0
+38,0,HR,High School,Lead,3.17,0,Rural,66995.0
+44,36,Finance,Master,Manager,4.79,15,Rural,260818.0
+35,20,Sales,PhD,Lead,1.52,20,Suburban,265842.0
+50,28,Sales,PhD,Junior,4.92,11,Rural,109156.0
+30,24,HR,PhD,Director,4.8,17,Suburban,316238.0
+52,26,Operations,Master,Junior,1.53,1,Urban,92265.0
+33,35,Operations,Bachelor,Manager,3.84,6,Urban,239425.0
+58,26,Marketing,Master,Lead,4.82,2,Urban,218850.0
+56,24,Sales,Master,Lead,2.38,8,Urban,247310.0
+36,8,Sales,High School,Senior,3.75,20,Urban,132379.0
+35,33,Marketing,Master,Junior,2.5,1,Urban,118746.0
+62,19,Marketing,Bachelor,Junior,1.63,16,Rural,51078.0
+48,6,HR,High School,Senior,1.13,11,Urban,68938.0
+35,4,Operations,PhD,Lead,1.69,18,Urban,214778.0
+56,30,Sales,Master,Senior,4.43,4,Suburban,196012.0
+56,8,Marketing,Master,Junior,3.37,10,Urban,79324.0
+29,4,Engineering,High School,Lead,1.17,3,Urban,131617.0
+45,11,HR,High School,Mid-level,2.68,11,Suburban,54142.0
+29,30,Engineering,Master,Director,3.2,9,Urban,453425.0
+37,15,Sales,PhD,Manager,1.34,2,Suburban,261091.0
+29,33,HR,PhD,Director,1.03,6,Suburban,305163.0
+22,15,Engineering,High School,Senior,2.53,4,Urban,152979.0
+45,37,Finance,Master,Lead,1.51,9,Suburban,239278.0
+41,22,HR,Bachelor,Manager,1.94,3,Rural,108466.0
+48,25,HR,Bachelor,Manager,3.83,18,Urban,185975.0
+24,32,Engineering,High School,Lead,1.38,18,Suburban,165487.0
+44,2,Sales,Bachelor,Director,3.31,19,Suburban,162363.0
+61,35,Marketing,Master,Director,1.25,14,Rural,224403.0
+61,15,HR,Master,Mid-level,2.84,8,Suburban,83902.0
+39,21,Finance,High School,Manager,1.84,6,Rural,145846.0
+23,16,Finance,High School,Senior,1.61,10,Urban,119880.0
+57,30,Finance,High School,Director,3.99,17,Suburban,191513.0
+23,37,Sales,High School,Lead,1.25,17,Rural,126817.0
+50,3,Sales,Master,Junior,1.92,1,Suburban,48569.0
+24,18,Operations,Bachelor,Senior,4.7,20,Suburban,129848.0
+57,3,Engineering,High School,Manager,4.06,2,Urban,141943.0
+62,7,Engineering,PhD,Mid-level,1.89,3,Rural,99204.0
+47,38,Finance,Bachelor,Director,3.91,9,Urban,330780.0
+30,30,Sales,High School,Junior,2.48,16,Suburban,62394.0
+59,1,Finance,High School,Lead,1.02,11,Suburban,86938.0
+53,20,HR,Master,Lead,2.62,1,Rural,120149.0
+38,34,Finance,PhD,Director,2.77,12,Rural,396379.0
+35,9,Finance,Master,Mid-level,4.18,17,Rural,116581.0
+59,4,Engineering,PhD,Mid-level,1.16,1,Suburban,90578.0
+39,32,Operations,High School,Senior,1.22,11,Suburban,107907.0
+51,12,Operations,PhD,Senior,1.81,4,Urban,179713.0
+34,40,Sales,Bachelor,Manager,4.01,17,Suburban,261449.0
+37,8,HR,Bachelor,Manager,4.79,14,Rural,122945.0
+51,36,Operations,Bachelor,Lead,2.86,4,Rural,127269.0
+46,32,Finance,High School,Mid-level,4.27,19,Urban,123693.0
+62,19,Finance,Bachelor,Manager,3.56,18,Rural,160730.0
+25,35,HR,High School,Manager,3.12,12,Urban,170636.0
+60,37,Engineering,Master,Lead,2.54,3,Urban,317821.0
+38,3,Operations,High School,Senior,3.22,3,Rural,71706.0
+24,6,Finance,PhD,Lead,3.44,20,Suburban,238142.0
+48,34,Engineering,PhD,Director,4.58,17,Rural,408765.0
+53,26,Operations,High School,Lead,3.84,14,Suburban,117379.0
+23,25,Finance,Bachelor,Junior,3.57,4,Suburban,80495.0
+65,19,Sales,High School,Senior,3.27,17,Urban,140161.0
+47,13,Operations,High School,Director,2.69,19,Suburban,140949.0
+38,30,Operations,PhD,Mid-level,2.44,1,Rural,133486.0
+53,15,Sales,High School,Lead,2.64,2,Rural,80775.0
+44,7,Marketing,Bachelor,Mid-level,2.73,18,Suburban,63005.0
+52,35,Operations,Bachelor,Junior,3.68,14,Urban,87476.0
+33,35,HR,Master,Mid-level,1.74,12,Suburban,126765.0
+58,9,HR,PhD,Manager,2.32,17,Urban,197705.0
+43,11,Sales,Master,Junior,3.99,19,Suburban,84158.0
+65,34,Marketing,High School,Director,1.56,2,Rural,123450.0
+28,28,Sales,PhD,Junior,1.18,1,Suburban,108796.0
+29,9,HR,PhD,Manager,3.82,13,Suburban,225435.0
+48,17,Engineering,High School,Manager,1.09,10,Suburban,128912.0
+31,31,Finance,Bachelor,Senior,2.87,2,Suburban,164363.0
+30,40,Sales,Bachelor,Director,1.6,6,Rural,228290.0
+44,22,Marketing,Master,Manager,4.85,14,Suburban,212448.0
+65,12,Marketing,High School,Junior,4.8,10,Rural,33317.0
+27,15,HR,Bachelor,Director,3.53,18,Suburban,164151.0
+57,22,HR,Master,Junior,3.76,11,Rural,59802.0
+51,5,Engineering,High School,Mid-level,2.15,2,Urban,73513.0
+25,28,Engineering,PhD,Director,1.34,20,Urban,591497.0
+28,6,Finance,Master,Mid-level,1.77,16,Suburban,118676.0
+27,33,Sales,High School,Lead,2.81,5,Suburban,144139.0
+25,25,Marketing,High School,Manager,4.88,19,Rural,120379.0
+61,11,HR,High School,Manager,4.28,12,Suburban,95955.0
+27,23,Sales,Bachelor,Senior,4.72,20,Suburban,167530.0
+26,36,Marketing,Bachelor,Manager,3.69,1,Urban,234986.0
+27,0,Marketing,High School,Senior,4.05,3,Urban,96320.0
+36,7,Finance,Master,Lead,2.03,10,Suburban,196023.0
+48,31,Operations,PhD,Junior,2.95,15,Rural,85288.0
+27,21,Operations,High School,Senior,3.51,15,Rural,89134.0
+54,31,Sales,Master,Director,3.96,19,Rural,279318.0
+25,25,Engineering,Master,Junior,1.86,8,Suburban,110349.0
+63,9,Engineering,High School,Senior,2.35,12,Rural,73518.0
+55,34,Operations,Bachelor,Lead,2.84,2,Urban,178893.0
+30,5,Operations,High School,Manager,4.84,19,Rural,96523.0
+62,39,Finance,High School,Junior,1.32,10,Urban,74518.0
+60,39,Sales,High School,Lead,4.63,9,Rural,132799.0
+59,34,Sales,Bachelor,Director,2.85,6,Suburban,234555.0
+38,19,Finance,PhD,Director,2.59,4,Rural,345430.0
+57,35,Finance,High School,Junior,1.11,11,Rural,54826.0
+43,10,Operations,High School,Director,2.03,5,Urban,133314.0
+38,13,Finance,High School,Manager,3.56,15,Rural,126161.0
+49,24,Sales,Master,Director,1.6,0,Urban,287019.0
+49,30,Operations,Master,Senior,4.52,4,Suburban,158417.0
+40,31,Sales,Bachelor,Mid-level,4.41,14,Urban,145839.0
+50,7,Marketing,High School,Manager,2.43,5,Rural,69702.0
+26,17,Operations,High School,Lead,1.47,19,Rural,92356.0
+65,13,Operations,High School,Junior,4.6,14,Urban,46035.0
+23,33,Marketing,High School,Senior,1.36,3,Rural,94587.0
+24,8,Engineering,High School,Mid-level,1.06,15,Urban,95563.0
+42,24,Finance,PhD,Lead,3.02,13,Urban,338876.0
+56,19,Finance,Bachelor,Director,4.27,9,Rural,204129.0
+52,25,HR,Bachelor,Lead,3.85,14,Urban,165894.0
+49,22,Operations,Bachelor,Manager,4.98,2,Suburban,157585.0
+50,24,Engineering,High School,Senior,2.2,7,Suburban,131592.0
+62,12,Finance,PhD,Director,4.02,4,Rural,238629.0
+32,4,Marketing,Master,Senior,1.8,12,Urban,158925.0
+59,27,Engineering,Bachelor,Junior,1.87,16,Rural,63084.0
+24,12,HR,Bachelor,Manager,3.66,6,Suburban,114397.0
+45,25,Sales,PhD,Senior,2.81,0,Urban,236077.0
+65,8,Engineering,Master,Lead,3.61,15,Suburban,197080.0
+65,35,Engineering,PhD,Junior,1.72,9,Suburban,130733.0
+42,31,Finance,High School,Lead,2.22,4,Suburban,145276.0
+24,20,Engineering,PhD,Director,2.05,17,Rural,365670.0
+36,30,HR,PhD,Manager,4.22,18,Urban,349097.0
+41,2,HR,PhD,Senior,4.45,2,Suburban,132254.0
+64,13,Operations,Bachelor,Junior,4.15,7,Urban,57952.0
+62,26,Marketing,Bachelor,Lead,1.08,10,Urban,158494.0
+22,31,Sales,Master,Lead,4.86,16,Rural,218449.0
+50,29,Operations,Master,Lead,1.02,1,Rural,129611.0
+47,16,Finance,High School,Director,2.69,14,Rural,137327.0
+23,39,Sales,High School,Manager,2.72,0,Rural,144523.0
+62,20,Operations,High School,Lead,2.53,17,Urban,113837.0
+41,18,Sales,Master,Director,1.01,18,Suburban,270239.0
+26,22,Finance,Bachelor,Senior,4.15,9,Rural,131894.0
+34,18,HR,High School,Senior,4.09,9,Suburban,83286.0
+47,8,Marketing,Bachelor,Senior,4.6,1,Urban,111946.0
+63,31,HR,Master,Director,4.18,5,Urban,268940.0
+44,36,Finance,PhD,Lead,2.08,0,Suburban,291059.0
+54,33,Operations,Master,Manager,1.68,1,Suburban,214885.0
+50,40,Sales,Master,Manager,4.35,0,Urban,351111.0
+62,33,Engineering,High School,Director,3.75,9,Suburban,225575.0
+32,40,Sales,PhD,Manager,1.9,6,Urban,417918.0
+29,13,Operations,High School,Director,4.48,17,Urban,184263.0
+30,19,Engineering,High School,Senior,4.37,12,Suburban,133898.0
+65,27,Finance,High School,Senior,4.5,16,Suburban,126118.0
+64,9,Operations,High School,Senior,1.16,15,Urban,84929.0
+43,13,Operations,PhD,Manager,2.95,1,Urban,214435.0
+50,14,Operations,PhD,Manager,3.19,19,Urban,239926.0
+41,27,Operations,PhD,Junior,3.33,19,Rural,85347.0
+61,17,Finance,Master,Manager,1.93,0,Suburban,210664.0
+37,32,Operations,PhD,Director,3.66,12,Suburban,359356.0
+27,30,Sales,Master,Mid-level,1.63,15,Urban,187491.0
+38,32,Sales,Bachelor,Director,2.19,20,Rural,234795.0
+31,5,Marketing,Master,Manager,1.47,16,Suburban,162243.0
+46,8,Finance,PhD,Mid-level,1.37,17,Suburban,136416.0
+30,16,Engineering,High School,Director,2.75,9,Rural,167040.0
+57,9,HR,Master,Manager,3.03,4,Urban,161327.0
+55,35,Finance,PhD,Lead,3.45,16,Suburban,326881.0
+59,17,Marketing,Master,Junior,2.12,14,Urban,84732.0
+25,32,Engineering,Master,Junior,3.38,7,Suburban,120140.0
+35,34,Sales,Master,Manager,3.09,8,Rural,244848.0
+58,17,HR,Master,Manager,2.12,7,Rural,137109.0
+40,5,Sales,PhD,Lead,4.62,4,Suburban,172685.0
+53,17,Operations,PhD,Director,4.77,11,Suburban,297770.0
+28,39,Marketing,Master,Lead,4.08,6,Suburban,246177.0
+57,15,Finance,Master,Director,2.52,4,Suburban,213027.0
+65,6,Sales,Master,Senior,3.27,14,Urban,184480.0
+33,37,Marketing,PhD,Mid-level,1.34,11,Urban,204664.0
+49,1,HR,Bachelor,Senior,3.3,18,Suburban,88035.0
+29,30,Operations,PhD,Lead,3.48,2,Urban,302607.0
+58,14,Engineering,Bachelor,Manager,3.59,20,Urban,232178.0
+59,21,Engineering,High School,Junior,3.1,14,Urban,72008.0
+47,18,Operations,Bachelor,Mid-level,2.98,3,Urban,87523.0
+65,20,HR,Bachelor,Junior,4.4,1,Urban,55892.0
+27,24,Engineering,PhD,Senior,3.41,1,Rural,224120.0
+57,10,HR,PhD,Mid-level,1.75,14,Rural,87022.0
+49,37,HR,Master,Director,3.31,4,Urban,296508.0
+46,36,Marketing,PhD,Director,2.18,12,Suburban,350421.0
+62,39,Marketing,PhD,Mid-level,2.76,15,Suburban,155885.0
+47,30,HR,PhD,Junior,3.57,12,Urban,119160.0
+48,21,Operations,Bachelor,Director,3.59,2,Suburban,184567.0
+60,20,Marketing,PhD,Mid-level,3.46,15,Rural,112344.0
+30,24,Finance,Master,Manager,3.23,11,Urban,311472.0
+57,20,Operations,Master,Mid-level,1.84,9,Rural,76101.0
+51,8,Finance,High School,Lead,3.26,17,Suburban,107620.0
+56,11,Sales,Bachelor,Lead,3.06,2,Urban,144221.0
+25,11,Operations,High School,Director,1.54,12,Urban,166855.0
+63,23,Marketing,Master,Lead,2.01,19,Suburban,190582.0
+24,28,Finance,Master,Senior,3.42,16,Urban,256459.0
+30,38,Operations,High School,Senior,2.81,4,Suburban,116224.0
+55,19,Marketing,Master,Junior,4.29,16,Rural,70788.0
+30,16,Marketing,PhD,Junior,1.03,13,Urban,128159.0
+49,8,Sales,High School,Manager,1.79,12,Rural,95330.0
+47,31,Engineering,High School,Director,2.71,11,Urban,273413.0
+52,15,Operations,Master,Lead,4.66,17,Suburban,168282.0
+27,1,Sales,Master,Lead,4.12,9,Rural,134915.0
+42,36,Sales,High School,Senior,2.48,6,Rural,106795.0
+42,11,Engineering,High School,Senior,3.52,5,Suburban,106069.0
+57,40,Finance,Master,Mid-level,2.73,1,Urban,198197.0
+65,3,Sales,High School,Director,1.02,2,Urban,95515.0
+61,31,Sales,PhD,Junior,1.61,17,Urban,131636.0
+42,5,Finance,High School,Lead,1.93,12,Suburban,104216.0
+48,31,Marketing,Master,Mid-level,3.23,0,Suburban,124054.0
+23,26,Engineering,PhD,Director,4.85,6,Rural,364954.0
+48,23,Operations,Bachelor,Manager,2.06,1,Rural,120984.0
+57,26,Sales,PhD,Mid-level,2.67,10,Suburban,145126.0
+61,16,Sales,PhD,Mid-level,2.08,19,Suburban,130189.0
+62,9,Finance,PhD,Senior,4.64,2,Urban,202539.0
+37,38,Engineering,High School,Manager,3.82,2,Rural,171364.0
+23,21,HR,PhD,Manager,1.26,18,Rural,184723.0
+52,3,Engineering,PhD,Lead,1.55,6,Rural,168935.0
+49,17,Finance,PhD,Mid-level,1.64,8,Urban,169824.0
+27,10,Sales,Master,Manager,1.3,0,Suburban,162190.0
+54,7,Marketing,High School,Junior,2.13,18,Suburban,38577.0
+38,26,HR,High School,Director,2.62,10,Urban,203442.0
+26,26,Operations,High School,Mid-level,3.53,7,Suburban,67859.0
+46,36,Engineering,Master,Director,2.8,11,Suburban,375227.0
+33,11,Sales,PhD,Director,3.79,18,Urban,390088.0
+65,19,Marketing,PhD,Junior,3.14,11,Urban,95406.0
+32,4,Marketing,Bachelor,Lead,2.55,1,Suburban,116372.0
+53,7,Finance,High School,Senior,3.22,14,Urban,106302.0
+55,36,Engineering,Master,Lead,2.4,6,Rural,221316.0
+58,24,HR,Master,Lead,3.54,20,Urban,215361.0
+56,17,Finance,PhD,Mid-level,1.44,18,Urban,168057.0
+59,14,Finance,Bachelor,Lead,4.27,13,Rural,119789.0
+38,10,Operations,High School,Lead,1.46,15,Urban,100544.0
+25,22,Operations,High School,Manager,2.27,13,Suburban,130098.0
+59,10,Operations,High School,Junior,1.97,4,Rural,25609.0
+40,39,Engineering,PhD,Lead,1.33,16,Urban,434068.0
+55,2,Marketing,High School,Senior,3.79,19,Rural,67922.0
+55,2,Sales,Master,Director,4.55,15,Suburban,215289.0
+28,3,Operations,Bachelor,Junior,4.71,7,Urban,52684.0
+42,9,Operations,Bachelor,Senior,4.52,13,Suburban,99803.0
+51,3,Finance,Master,Junior,2.83,14,Rural,51983.0
+25,35,HR,Bachelor,Senior,3.69,8,Urban,177970.0
+40,5,Marketing,Master,Director,4.83,8,Urban,240296.0
+54,1,Engineering,High School,Mid-level,4.14,12,Urban,85071.0
+29,6,Finance,Bachelor,Manager,1.17,3,Urban,154937.0
+64,15,Marketing,High School,Senior,3.56,11,Rural,77777.0
+45,5,HR,Bachelor,Mid-level,2.74,12,Rural,45631.0
+30,24,Finance,Master,Junior,2.31,18,Urban,133433.0
+43,26,Marketing,PhD,Senior,1.67,19,Rural,170196.0
+47,31,Sales,High School,Senior,1.62,17,Rural,111671.0
+58,3,Sales,Bachelor,Junior,3.67,17,Suburban,57526.0
+41,28,Sales,High School,Senior,4.94,13,Urban,160763.0
+36,7,Operations,Master,Senior,1.48,17,Rural,118396.0
+58,12,Marketing,Bachelor,Director,2.74,16,Rural,135552.0
+51,20,Sales,Master,Manager,2.53,13,Urban,246934.0
+28,21,Marketing,PhD,Mid-level,4.9,13,Rural,146101.0
+49,13,Finance,Master,Senior,3.91,6,Suburban,153351.0
+45,18,Engineering,Bachelor,Manager,3.38,12,Suburban,170491.0
+45,10,Marketing,PhD,Mid-level,3.68,20,Urban,158978.0
+29,34,Marketing,PhD,Junior,2.17,5,Suburban,125800.0
+26,27,Finance,Bachelor,Senior,2.88,3,Rural,141568.0
+36,5,Marketing,High School,Senior,1.76,0,Rural,67590.0
+26,19,Engineering,High School,Director,1.49,4,Rural,152628.0
+52,22,HR,PhD,Senior,3.68,5,Suburban,159005.0
+50,19,HR,PhD,Junior,1.36,9,Rural,70730.0
+27,1,Marketing,Master,Mid-level,3.2,19,Rural,83006.0
+41,6,Sales,Master,Lead,2.97,1,Urban,175366.0
+53,9,Marketing,Bachelor,Mid-level,2.39,10,Urban,69768.0
+46,1,Finance,PhD,Mid-level,1.61,12,Rural,83613.0
+35,33,Engineering,Bachelor,Director,1.92,12,Urban,379901.0
+45,19,Marketing,PhD,Senior,2.94,4,Urban,215990.0
+22,8,Finance,PhD,Senior,4.12,13,Suburban,220598.0
+48,15,Sales,PhD,Manager,3.88,6,Urban,282809.0
+58,38,Engineering,Bachelor,Mid-level,1.63,19,Urban,165655.0
+52,38,Sales,Master,Manager,3.55,14,Rural,213573.0
+30,12,HR,High School,Director,3.99,5,Rural,106699.0
+55,7,Finance,Bachelor,Lead,3.62,10,Suburban,125519.0
+57,31,HR,High School,Junior,4.38,4,Urban,60561.0
+51,7,Marketing,High School,Mid-level,1.56,1,Suburban,53759.0
+32,5,HR,High School,Director,4.14,18,Urban,160582.0
+35,4,Engineering,Bachelor,Lead,3.39,1,Urban,181390.0
+29,23,Marketing,Master,Junior,1.96,18,Urban,102231.0
+26,38,Operations,PhD,Manager,2.92,13,Suburban,300748.0
+57,17,Finance,Master,Junior,1.74,1,Rural,61553.0
+62,33,Finance,PhD,Lead,2.2,17,Rural,252953.0
+44,25,Sales,PhD,Manager,3.25,10,Urban,333351.0
+32,18,Operations,PhD,Mid-level,4.36,9,Urban,176098.0
+57,13,Finance,Master,Mid-level,2.31,4,Rural,84393.0
+38,31,Finance,PhD,Manager,2.55,12,Rural,333042.0
+26,33,HR,High School,Mid-level,2.17,15,Suburban,75645.0
+44,12,Engineering,PhD,Director,1.88,15,Suburban,340260.0
+31,10,Sales,Master,Manager,4.34,6,Urban,269544.0
+30,21,Engineering,High School,Manager,3.98,17,Suburban,187661.0
+34,26,HR,PhD,Manager,3.06,17,Urban,337272.0
+37,15,Marketing,High School,Manager,1.89,18,Urban,158371.0
+49,0,Marketing,High School,Lead,3.71,16,Rural,76237.0
+41,32,Marketing,High School,Senior,2.61,9,Rural,101733.0
+27,18,HR,High School,Lead,4.29,0,Suburban,103590.0
+45,37,Finance,High School,Lead,1.67,0,Urban,185766.0
+37,26,HR,Master,Director,2.9,15,Suburban,274136.0
+30,16,Marketing,Master,Mid-level,2.02,9,Urban,123105.0
+52,3,Operations,Master,Manager,1.83,10,Rural,109423.0
+56,2,Marketing,High School,Junior,3.46,17,Urban,42798.0
+32,4,Finance,Master,Lead,2.18,8,Rural,151102.0
+49,13,Finance,PhD,Director,4.78,20,Suburban,352021.0
+61,28,Operations,PhD,Director,2.62,6,Suburban,304345.0
+55,40,Operations,PhD,Senior,2.93,7,Urban,252355.0
+63,14,Sales,High School,Junior,4.2,1,Suburban,45799.0
+28,1,Marketing,High School,Mid-level,4.92,16,Rural,49009.0
+36,33,Operations,PhD,Lead,3.31,20,Rural,246589.0
+48,37,Marketing,Bachelor,Manager,2.9,20,Rural,173966.0
+65,0,HR,Master,Director,1.69,0,Urban,136664.0
+59,24,Engineering,Bachelor,Lead,3.56,8,Suburban,177030.0
+37,11,Finance,Bachelor,Manager,1.72,15,Rural,167157.0
+55,32,Marketing,Master,Senior,4.66,15,Suburban,187042.0
+49,0,Finance,Bachelor,Junior,2.52,1,Rural,40387.0
+49,13,Finance,Master,Director,2.25,20,Suburban,299414.0
+40,36,Sales,Master,Junior,2.25,10,Rural,97261.0
+62,17,Finance,Bachelor,Senior,4.88,20,Rural,128749.0
+31,7,Finance,PhD,Junior,2.49,12,Rural,89444.0
+41,19,Operations,High School,Senior,3.51,3,Urban,105240.0
+45,37,Operations,Bachelor,Manager,2.01,7,Rural,154627.0
+22,36,HR,Master,Director,3.01,13,Rural,251429.0
+33,7,HR,High School,Lead,2.09,12,Rural,80516.0
+37,20,Operations,Bachelor,Director,4.87,12,Urban,244045.0
+44,28,Operations,High School,Junior,1.65,6,Suburban,45654.0
+62,34,Engineering,High School,Director,2.44,17,Suburban,213837.0
+62,4,Marketing,High School,Director,4.81,7,Urban,132027.0
+62,18,Marketing,Master,Mid-level,4.83,15,Urban,119952.0
+40,28,Operations,High School,Junior,1.12,20,Rural,43793.0
+25,15,Finance,Master,Senior,1.05,3,Suburban,161932.0
+49,30,Finance,Bachelor,Manager,2.39,5,Suburban,204926.0
+43,2,Engineering,Bachelor,Junior,1.71,8,Rural,51457.0
+30,33,Marketing,High School,Senior,3.6,7,Urban,147282.0
+61,19,HR,PhD,Junior,4.14,10,Rural,72874.0
+56,2,Operations,High School,Director,2.11,2,Urban,101721.0
+35,30,Marketing,Master,Junior,1.05,2,Urban,110780.0
+35,21,HR,PhD,Lead,4.99,14,Rural,205902.0
+42,17,Marketing,PhD,Mid-level,1.6,7,Urban,151766.0
+30,15,Engineering,Bachelor,Manager,3.66,18,Rural,184684.0
+61,7,Marketing,Bachelor,Junior,2.99,19,Urban,58566.0
+62,32,Sales,Master,Senior,3.16,5,Urban,207041.0
+33,18,Engineering,Bachelor,Senior,3.27,3,Suburban,156842.0
+31,28,Finance,High School,Senior,2.33,17,Suburban,135817.0
+60,19,Engineering,High School,Senior,3.69,2,Suburban,108826.0
+62,31,HR,Bachelor,Mid-level,4.4,16,Suburban,92056.0
+38,37,Marketing,High School,Junior,2.88,20,Rural,56020.0
+44,3,Operations,PhD,Junior,1.21,14,Suburban,72806.0
+44,1,HR,Bachelor,Senior,2.66,2,Urban,80710.0
+62,7,Operations,Master,Manager,5.0,13,Urban,180240.0
+55,7,Operations,Master,Lead,2.89,5,Rural,103099.0
+41,40,HR,PhD,Lead,4.38,6,Suburban,259844.0
+25,33,Marketing,PhD,Manager,3.14,6,Rural,261137.0
+45,26,Marketing,Master,Mid-level,4.01,16,Suburban,127231.0
+37,0,Sales,Bachelor,Senior,4.12,11,Rural,93076.0
+32,11,Finance,Bachelor,Junior,2.35,3,Rural,53233.0
+64,23,HR,Master,Director,4.42,11,Suburban,222709.0
+46,22,HR,PhD,Mid-level,1.99,20,Urban,140661.0
+61,3,Finance,Bachelor,Mid-level,3.5,8,Rural,60220.0
+47,6,Marketing,Bachelor,Senior,3.13,12,Rural,73820.0
+42,25,Finance,Bachelor,Manager,1.44,14,Urban,216019.0
+28,33,Operations,Bachelor,Junior,4.34,4,Urban,88558.0
+58,33,Finance,Master,Junior,4.8,14,Urban,138852.0
+24,25,Engineering,High School,Senior,4.09,9,Suburban,152470.0
+40,38,Sales,Master,Manager,4.88,7,Urban,356072.0
+58,19,Engineering,Master,Junior,3.23,13,Rural,82492.0
+37,27,Sales,Master,Junior,1.7,8,Suburban,91733.0
+62,32,HR,Master,Junior,3.48,11,Rural,66397.0
+40,30,HR,High School,Senior,1.74,1,Suburban,90402.0
+47,15,Engineering,Bachelor,Manager,4.13,15,Rural,157802.0
+29,38,Sales,Master,Mid-level,3.68,0,Urban,199398.0
+59,10,Sales,Bachelor,Manager,1.59,5,Suburban,131452.0
+31,17,Engineering,PhD,Junior,3.05,6,Urban,145346.0
+37,35,Finance,PhD,Director,1.11,9,Urban,518999.0
+40,16,Operations,Master,Senior,1.33,4,Suburban,132946.0
+60,7,Operations,Master,Lead,4.24,3,Suburban,121621.0
+45,7,Finance,High School,Junior,1.48,18,Suburban,47472.0
+32,27,Marketing,Bachelor,Director,3.07,4,Suburban,224931.0
+43,17,Engineering,PhD,Senior,3.57,12,Rural,222403.0
+28,15,Operations,High School,Mid-level,2.5,7,Urban,71717.0
+50,33,HR,Bachelor,Mid-level,1.9,10,Urban,99061.0
+31,3,Marketing,Bachelor,Lead,1.35,20,Rural,93814.0
+41,37,Marketing,High School,Director,3.25,15,Urban,219201.0
+57,9,Finance,PhD,Senior,2.64,10,Urban,210418.0
+42,2,Marketing,High School,Junior,2.99,7,Suburban,28029.0
+36,40,Sales,Bachelor,Junior,3.95,2,Suburban,94617.0
+53,12,Engineering,Bachelor,Manager,3.57,12,Rural,143811.0
+36,0,Engineering,PhD,Lead,3.69,17,Suburban,253354.0
+28,40,Operations,Bachelor,Senior,4.15,1,Rural,127984.0
+23,3,Operations,Bachelor,Lead,2.78,3,Rural,75888.0
+42,18,Marketing,High School,Manager,3.87,5,Rural,94864.0
+53,28,Marketing,Bachelor,Lead,3.98,0,Urban,169024.0
+30,39,Marketing,PhD,Senior,1.06,3,Rural,196547.0
+48,32,Engineering,Bachelor,Manager,2.18,3,Rural,178547.0
+33,33,Engineering,PhD,Junior,4.87,19,Urban,203748.0
+27,21,Finance,High School,Director,1.12,20,Urban,222783.0
+63,37,Marketing,PhD,Manager,2.69,11,Rural,246735.0
+24,2,Engineering,Master,Director,2.33,15,Rural,196942.0
+63,23,Marketing,Bachelor,Senior,3.66,20,Urban,160969.0
+40,24,Finance,High School,Mid-level,1.82,10,Suburban,73702.0
+39,21,Marketing,Bachelor,Senior,3.61,7,Urban,172536.0
+41,32,Finance,PhD,Junior,1.46,10,Suburban,120711.0
+43,29,Operations,Master,Junior,1.61,10,Rural,75145.0
+35,12,Sales,Bachelor,Lead,1.31,13,Urban,171893.0
+65,5,Operations,Bachelor,Junior,2.62,12,Rural,29861.0
+29,14,HR,Master,Junior,1.86,12,Suburban,69648.0
+38,21,Marketing,PhD,Manager,1.04,6,Urban,313416.0
+37,16,Operations,Bachelor,Mid-level,1.67,3,Urban,106771.0
+61,8,Sales,Master,Junior,3.28,17,Suburban,66716.0
+46,7,Finance,Bachelor,Director,3.88,2,Rural,134802.0
+42,20,Operations,PhD,Director,2.07,20,Suburban,288880.0
+60,21,Finance,Bachelor,Junior,1.32,20,Rural,61916.0
+65,5,Marketing,High School,Director,2.7,19,Suburban,106653.0
+26,0,HR,Bachelor,Manager,1.42,14,Suburban,100512.0
+56,34,Engineering,Bachelor,Mid-level,3.68,6,Rural,105486.0
+31,8,Sales,PhD,Lead,4.95,14,Urban,299184.0
+51,10,Marketing,PhD,Manager,3.3,16,Urban,258558.0
+43,14,Operations,High School,Director,2.43,9,Urban,161949.0
+39,5,Engineering,Master,Manager,2.65,11,Suburban,246512.0
+27,9,Operations,PhD,Lead,3.07,16,Rural,155724.0
+59,9,Finance,PhD,Senior,4.83,5,Urban,213565.0
+53,33,Finance,PhD,Junior,2.47,19,Rural,126245.0
+41,1,Operations,Bachelor,Director,3.65,1,Rural,107636.0
+62,4,Finance,Master,Senior,2.06,9,Rural,99244.0
+57,11,HR,PhD,Senior,1.87,18,Suburban,148411.0
+35,28,Finance,High School,Lead,1.68,13,Rural,139402.0
+27,8,Operations,High School,Lead,4.57,19,Suburban,112129.0
+58,13,Sales,Master,Director,1.83,20,Suburban,198878.0
+54,12,Marketing,PhD,Director,4.83,20,Urban,346523.0
+31,5,Finance,Bachelor,Director,3.89,8,Rural,158849.0
+59,39,Operations,High School,Mid-level,3.86,16,Urban,95147.0
+50,17,Sales,PhD,Senior,1.84,19,Suburban,215751.0
+34,35,HR,PhD,Lead,1.62,4,Urban,279280.0
+51,18,HR,High School,Mid-level,1.76,6,Urban,64062.0
+64,9,Sales,Master,Mid-level,4.08,1,Suburban,86441.0
+61,27,Operations,High School,Lead,2.72,15,Suburban,116034.0
+42,3,Engineering,Bachelor,Mid-level,4.35,11,Rural,88469.0
+52,38,HR,Bachelor,Junior,2.05,11,Urban,71775.0
+58,0,HR,Bachelor,Junior,4.97,16,Urban,45756.0
+37,33,HR,Master,Mid-level,1.7,19,Suburban,136682.0
+48,11,HR,Master,Junior,1.48,8,Suburban,47534.0
+49,36,Marketing,Master,Mid-level,3.65,2,Rural,116995.0
+48,33,HR,Master,Manager,2.89,14,Suburban,222490.0
+38,8,Marketing,Bachelor,Mid-level,2.48,5,Suburban,80072.0
+55,28,Marketing,Master,Manager,2.74,15,Urban,250580.0
+40,2,Sales,PhD,Director,2.13,14,Urban,303626.0
+46,38,HR,PhD,Manager,4.44,0,Rural,232395.0
+31,36,Sales,PhD,Junior,3.23,3,Urban,169344.0
+65,6,Marketing,Bachelor,Senior,3.73,3,Suburban,72541.0
+36,4,Sales,High School,Senior,4.25,12,Suburban,107240.0
+58,15,HR,PhD,Junior,2.58,1,Rural,49272.0
+29,26,HR,PhD,Senior,1.76,11,Rural,155045.0
+52,7,Engineering,High School,Lead,1.3,20,Rural,97412.0
+22,16,Sales,PhD,Junior,2.6,10,Urban,120226.0
+53,20,Finance,Bachelor,Director,1.37,14,Rural,172449.0
+64,19,Operations,Master,Lead,2.72,9,Rural,116317.0
+36,0,HR,High School,Junior,3.27,11,Suburban,35888.0
+35,8,Finance,Master,Mid-level,2.24,16,Urban,134598.0
+31,36,Operations,High School,Junior,1.57,20,Urban,74022.0
+37,14,Operations,PhD,Senior,1.52,12,Rural,150640.0
+26,36,Engineering,Master,Senior,2.3,14,Urban,323817.0
+27,26,Operations,PhD,Senior,3.35,14,Rural,168418.0
+55,17,Finance,PhD,Junior,3.01,13,Urban,126896.0
+39,36,Finance,High School,Junior,4.03,11,Rural,70272.0
+64,38,HR,High School,Manager,2.12,14,Urban,160835.0
+52,8,Sales,Master,Director,2.08,14,Suburban,183853.0
+65,14,Marketing,Master,Lead,1.46,7,Rural,118468.0
+29,23,Finance,Bachelor,Senior,1.65,1,Urban,168254.0
+36,34,Sales,Bachelor,Mid-level,3.02,9,Urban,141614.0
+29,36,Sales,Bachelor,Manager,1.33,18,Rural,166823.0
+43,22,Operations,PhD,Manager,3.09,3,Urban,290256.0
+24,26,HR,PhD,Manager,2.81,10,Suburban,258803.0
+28,28,HR,Master,Junior,3.23,0,Rural,69305.0
+48,25,Operations,PhD,Director,3.97,11,Urban,391271.0
+65,33,Finance,High School,Manager,1.41,16,Rural,143111.0
+47,5,Marketing,High School,Lead,3.26,7,Suburban,78160.0
+63,38,Sales,PhD,Senior,3.41,6,Suburban,249813.0
+34,11,Finance,Bachelor,Lead,3.64,9,Rural,136757.0
+64,21,Sales,PhD,Senior,4.88,6,Suburban,205302.0
+22,4,Operations,Bachelor,Mid-level,3.89,15,Rural,49202.0
+31,22,Marketing,PhD,Lead,4.14,16,Suburban,258557.0
+34,18,HR,Master,Director,1.3,5,Rural,175352.0
+62,31,HR,High School,Director,4.7,18,Rural,143788.0
+62,5,Marketing,PhD,Junior,4.36,9,Rural,57017.0
+31,27,Sales,PhD,Manager,4.23,17,Suburban,316732.0
+63,2,Engineering,Master,Mid-level,4.36,19,Urban,136751.0
+61,10,Finance,Master,Lead,1.64,18,Rural,169668.0
+60,12,Sales,PhD,Mid-level,3.16,16,Urban,145021.0
+61,12,Sales,PhD,Director,1.71,10,Urban,335993.0
+42,28,Operations,Bachelor,Senior,1.6,8,Urban,148518.0
+57,34,Marketing,High School,Manager,2.6,7,Urban,166989.0
+44,3,Engineering,High School,Mid-level,4.35,10,Rural,61391.0
+28,16,Operations,High School,Lead,4.09,7,Rural,95475.0
+39,36,Sales,High School,Manager,4.9,19,Rural,165529.0
+39,3,Finance,Master,Director,3.72,17,Suburban,281621.0
+49,8,HR,Bachelor,Mid-level,2.53,3,Urban,59199.0
+37,15,Marketing,Bachelor,Mid-level,3.3,12,Suburban,106593.0
+54,16,Finance,PhD,Manager,3.19,1,Suburban,257115.0
+54,26,Sales,Bachelor,Mid-level,2.9,19,Rural,95536.0
+62,27,Marketing,Bachelor,Mid-level,4.18,18,Urban,116677.0
+28,36,Engineering,PhD,Manager,4.52,13,Suburban,394729.0
+65,30,Marketing,Bachelor,Junior,2.72,8,Rural,50452.0
+27,28,Finance,Bachelor,Lead,4.62,4,Urban,230115.0
+43,18,HR,PhD,Manager,3.67,18,Rural,204250.0
+24,18,Operations,Master,Senior,3.06,3,Urban,164184.0
+42,3,Sales,Bachelor,Senior,2.6,2,Urban,103590.0
+57,11,HR,PhD,Junior,1.37,9,Suburban,61396.0
+22,7,HR,PhD,Mid-level,2.78,7,Rural,92126.0
+48,33,Engineering,Bachelor,Lead,2.79,11,Rural,166224.0
+48,8,Finance,Bachelor,Mid-level,1.83,15,Rural,70927.0
+22,32,Operations,High School,Lead,2.74,2,Rural,106462.0
+49,8,Marketing,High School,Senior,4.0,5,Suburban,81132.0
+35,10,HR,PhD,Director,2.63,1,Suburban,266410.0
+34,33,Operations,Master,Manager,3.5,5,Rural,207053.0
+42,17,Finance,High School,Junior,4.15,19,Rural,52832.0
+62,17,Sales,Master,Junior,1.53,0,Rural,62700.0
+49,7,Marketing,Master,Senior,1.49,7,Suburban,103151.0
+32,17,Sales,Bachelor,Senior,4.16,8,Rural,120141.0
+37,38,Engineering,PhD,Senior,4.33,12,Rural,330383.0
+33,26,Sales,Bachelor,Senior,4.9,7,Rural,133928.0
+30,10,Marketing,PhD,Lead,4.82,8,Rural,202637.0
+61,3,Engineering,Master,Manager,4.4,15,Urban,266515.0
+51,28,Marketing,PhD,Lead,3.21,5,Rural,179289.0
+62,29,Marketing,High School,Director,4.61,10,Suburban,170647.0
+55,21,Operations,Master,Junior,1.11,17,Rural,58433.0
+52,39,Operations,Master,Director,3.8,0,Suburban,259980.0
+54,28,Finance,PhD,Manager,3.72,3,Urban,391940.0
+41,25,Engineering,Bachelor,Director,4.26,12,Suburban,253475.0
+58,2,Sales,PhD,Manager,1.88,18,Urban,198562.0
+57,17,Sales,Bachelor,Director,1.2,14,Suburban,157046.0
+64,22,Marketing,High School,Lead,4.9,17,Suburban,111782.0
+57,0,Engineering,PhD,Manager,3.25,20,Rural,200231.0
+22,9,Marketing,PhD,Director,4.34,15,Urban,322325.0
+25,6,Marketing,Master,Mid-level,2.64,17,Rural,80422.0
+28,4,Marketing,Master,Lead,1.64,2,Rural,115309.0
+42,23,Marketing,Master,Lead,4.09,4,Rural,161869.0
+56,31,Sales,Bachelor,Manager,1.14,2,Rural,142795.0
+36,18,Marketing,Master,Junior,1.09,2,Urban,98996.0
+50,37,Finance,PhD,Lead,1.8,10,Urban,368969.0
+30,26,Marketing,High School,Lead,4.48,12,Suburban,136513.0
+22,22,Sales,PhD,Junior,1.7,1,Urban,121261.0
+55,23,Engineering,Bachelor,Lead,4.49,1,Rural,161663.0
+35,21,Marketing,Bachelor,Mid-level,4.75,3,Rural,81061.0
+45,16,Sales,High School,Manager,3.47,14,Urban,172807.0
+59,11,Marketing,Master,Manager,2.97,10,Suburban,158272.0
+28,23,Finance,Master,Lead,2.78,12,Suburban,232352.0
+27,2,Finance,PhD,Lead,3.71,20,Rural,218082.0
+27,29,Sales,PhD,Director,4.41,1,Suburban,375690.0
+24,15,Operations,Master,Junior,1.69,1,Suburban,66169.0
+34,31,Operations,Master,Mid-level,3.94,8,Urban,174250.0
+24,0,Marketing,Master,Director,4.92,5,Rural,151288.0
+40,10,Marketing,Master,Lead,1.95,4,Urban,180461.0
+60,38,Operations,Bachelor,Mid-level,4.86,3,Rural,87186.0
+28,9,Operations,PhD,Senior,4.28,3,Urban,189786.0
+65,36,Finance,Bachelor,Director,4.29,18,Urban,333630.0
+63,10,Engineering,Bachelor,Lead,2.09,8,Rural,105169.0
+56,22,Marketing,PhD,Senior,3.05,15,Suburban,181266.0
+51,36,Finance,High School,Senior,1.11,10,Urban,146890.0
+47,39,Operations,PhD,Director,4.85,1,Urban,410038.0
+25,7,HR,PhD,Lead,3.48,11,Suburban,171200.0
+56,27,Operations,Bachelor,Director,3.74,0,Suburban,182679.0
+26,2,Operations,Master,Lead,3.62,15,Rural,117757.0
+57,33,Marketing,High School,Director,3.2,11,Rural,139136.0
+33,7,Engineering,Master,Director,1.05,15,Suburban,257309.0
+53,6,HR,PhD,Director,4.57,14,Rural,214550.0
+29,2,Operations,High School,Manager,4.06,0,Urban,108368.0
+46,9,Operations,Master,Junior,3.29,3,Urban,61602.0
+27,37,Engineering,PhD,Senior,1.27,16,Suburban,325484.0
+44,20,Finance,PhD,Senior,2.65,20,Suburban,237068.0
+65,6,HR,Bachelor,Junior,2.58,0,Urban,39192.0
+43,7,Engineering,High School,Junior,1.67,18,Suburban,50909.0
+27,28,Marketing,Bachelor,Manager,3.9,6,Urban,229543.0
+43,6,Operations,Master,Director,1.98,5,Rural,151626.0
+61,15,Engineering,PhD,Lead,4.66,3,Suburban,235612.0
+27,35,HR,Bachelor,Senior,1.8,18,Suburban,138177.0
+52,12,Engineering,Bachelor,Mid-level,1.68,9,Urban,102035.0
+29,21,Sales,Bachelor,Manager,2.3,14,Rural,164678.0
+63,40,Engineering,Bachelor,Director,2.56,4,Rural,233109.0
+30,13,Operations,Bachelor,Manager,3.02,3,Suburban,139507.0
+30,33,Finance,Bachelor,Mid-level,1.77,6,Urban,148220.0
+46,28,Engineering,Bachelor,Lead,3.06,8,Rural,171332.0
+34,37,HR,PhD,Senior,1.51,20,Urban,294080.0
+23,8,HR,High School,Junior,4.55,14,Urban,53510.0
+24,22,Sales,Master,Director,1.41,17,Suburban,312526.0
+38,3,Operations,High School,Manager,1.68,1,Rural,88832.0
+53,40,Finance,Bachelor,Manager,4.55,0,Suburban,232630.0
+47,0,Operations,Bachelor,Senior,3.38,16,Urban,99350.0
+52,23,Marketing,Bachelor,Mid-level,2.41,14,Urban,106989.0
+46,27,Sales,High School,Junior,4.09,9,Urban,69774.0
+33,6,Marketing,PhD,Mid-level,3.86,0,Urban,145937.0
+25,25,Marketing,Master,Junior,4.8,14,Urban,108896.0
+33,12,Sales,High School,Senior,3.9,16,Rural,94375.0
+55,0,Operations,Bachelor,Junior,3.2,17,Rural,36832.0
+51,38,Marketing,High School,Director,3.2,15,Rural,164395.0
+26,30,Operations,PhD,Mid-level,1.05,15,Rural,134228.0
+55,19,Engineering,Master,Lead,4.94,1,Urban,274245.0
+65,25,Marketing,Bachelor,Mid-level,1.54,6,Urban,96875.0
+62,13,Finance,PhD,Junior,1.65,17,Rural,83531.0
+45,3,Finance,Master,Junior,2.24,16,Suburban,70894.0
+42,24,Marketing,High School,Senior,1.46,18,Urban,117346.0
+41,30,Sales,High School,Senior,2.81,1,Urban,133231.0
+33,35,Operations,PhD,Mid-level,3.66,5,Suburban,167528.0
+23,28,Marketing,High School,Mid-level,2.65,6,Suburban,71345.0
+63,2,HR,PhD,Manager,3.49,19,Urban,183989.0
+50,2,Sales,Bachelor,Mid-level,4.11,11,Suburban,77096.0
+65,38,Engineering,PhD,Lead,4.56,3,Rural,285906.0
+50,5,Operations,PhD,Director,2.39,2,Rural,137863.0
+38,7,Engineering,Master,Senior,2.13,6,Rural,166914.0
+48,13,Sales,PhD,Senior,1.96,2,Urban,187282.0
+26,22,Marketing,Bachelor,Director,1.01,12,Suburban,191346.0
+56,11,Finance,High School,Director,4.0,18,Suburban,160676.0
+58,20,Finance,PhD,Mid-level,2.21,4,Rural,113590.0
+64,23,Operations,High School,Junior,1.39,7,Urban,43948.0
+36,11,Finance,Bachelor,Manager,1.64,17,Rural,148356.0
+44,8,Operations,Master,Manager,3.17,20,Suburban,163001.0
+47,22,Marketing,High School,Lead,4.55,0,Rural,97286.0
+64,8,Sales,PhD,Senior,4.4,12,Rural,149326.0
+51,39,Sales,PhD,Manager,3.36,4,Suburban,336268.0
+45,15,HR,PhD,Director,4.14,7,Rural,211211.0
+54,36,Engineering,Bachelor,Manager,4.05,16,Urban,291773.0
+56,34,HR,Master,Senior,2.57,18,Rural,134626.0
+38,34,Operations,PhD,Junior,4.65,11,Rural,109437.0
+52,22,Marketing,PhD,Mid-level,4.27,19,Rural,111947.0
+47,39,Sales,High School,Senior,1.37,1,Rural,97006.0
+39,3,HR,PhD,Manager,5.0,5,Urban,248510.0
+36,12,Operations,PhD,Mid-level,4.03,2,Urban,158131.0
+59,3,Marketing,Bachelor,Senior,2.85,1,Urban,80448.0
+33,29,Finance,Master,Lead,1.36,10,Rural,203019.0
+41,35,Operations,Bachelor,Director,3.24,6,Rural,169891.0
+47,15,Engineering,High School,Lead,4.21,14,Urban,179890.0
+62,34,Sales,Bachelor,Senior,4.08,4,Suburban,144363.0
+37,31,Engineering,PhD,Manager,3.29,14,Rural,380889.0
+48,20,Finance,Bachelor,Junior,3.97,6,Rural,64806.0
+29,30,Operations,Master,Director,4.04,10,Suburban,291253.0
+22,35,Finance,Master,Junior,1.17,18,Rural,93329.0
+39,37,Marketing,PhD,Mid-level,4.42,19,Urban,255786.0
+46,36,Sales,High School,Manager,3.62,10,Suburban,166701.0
+58,12,Finance,Master,Mid-level,1.29,13,Suburban,100228.0
+42,29,HR,High School,Director,1.85,15,Rural,128961.0
+57,28,Engineering,Bachelor,Lead,4.84,19,Suburban,205518.0
+36,18,Engineering,PhD,Mid-level,3.15,5,Suburban,202079.0
+58,32,Sales,Master,Director,2.93,3,Suburban,294106.0
+50,20,HR,High School,Lead,1.14,5,Rural,71197.0
+24,34,Finance,Bachelor,Junior,2.93,4,Rural,73791.0
+44,31,Engineering,High School,Director,1.76,1,Urban,249265.0
+42,29,Operations,Master,Senior,1.65,8,Suburban,140072.0
+35,38,Operations,Bachelor,Director,4.83,2,Rural,205787.0
+23,7,Marketing,Master,Manager,4.85,8,Urban,218232.0
+63,12,Marketing,PhD,Senior,3.58,2,Rural,116565.0
+24,16,Sales,Bachelor,Senior,1.8,19,Suburban,126945.0
+32,16,Operations,Bachelor,Senior,1.11,1,Urban,122287.0
+64,5,Engineering,Master,Lead,2.6,18,Urban,215462.0
+51,14,HR,Master,Mid-level,3.56,13,Suburban,97809.0
+50,17,Sales,Bachelor,Mid-level,1.54,18,Urban,98558.0
+41,16,Sales,Bachelor,Lead,4.42,17,Rural,133318.0
+36,37,Operations,PhD,Manager,4.41,14,Urban,412572.0
+28,20,Sales,High School,Senior,2.03,3,Urban,130170.0
+31,18,HR,Bachelor,Manager,2.41,18,Suburban,155818.0
+30,2,Engineering,PhD,Lead,1.46,7,Rural,198420.0
+63,35,Operations,Master,Lead,2.81,7,Suburban,182076.0
+51,18,Operations,Master,Junior,2.77,11,Rural,58997.0
+37,9,Operations,PhD,Lead,2.64,2,Rural,164769.0
+45,35,Operations,PhD,Senior,3.74,15,Urban,267202.0
+56,0,HR,High School,Manager,4.62,18,Rural,64467.0
+36,4,Finance,PhD,Mid-level,1.6,5,Suburban,127619.0
+50,33,Finance,Master,Senior,2.49,9,Suburban,213996.0
+55,24,Operations,Master,Lead,3.2,1,Urban,207251.0
+28,32,Sales,High School,Junior,3.37,1,Suburban,63243.0
+22,26,Engineering,Master,Manager,2.39,0,Suburban,294083.0
+39,18,Engineering,High School,Lead,4.27,4,Suburban,160962.0
+34,22,Operations,High School,Senior,1.64,17,Suburban,93136.0
+42,11,HR,PhD,Senior,3.94,20,Suburban,182381.0
+26,19,HR,High School,Manager,2.64,13,Rural,107724.0
+64,22,Engineering,High School,Mid-level,4.87,6,Suburban,86556.0
+46,24,Operations,Master,Lead,4.86,4,Rural,161621.0
+37,33,Finance,High School,Director,1.16,12,Rural,195300.0
+57,15,Engineering,High School,Junior,4.22,4,Urban,73766.0
+48,34,Sales,High School,Senior,2.68,20,Urban,152980.0
+36,0,Engineering,Bachelor,Mid-level,1.27,1,Suburban,78525.0
+36,19,Sales,Master,Mid-level,4.92,13,Rural,130838.0
+30,13,Operations,Bachelor,Lead,2.55,16,Urban,178481.0
+33,13,Marketing,High School,Mid-level,1.91,4,Urban,84818.0
+26,32,Sales,PhD,Director,2.94,17,Urban,497169.0
+61,10,Finance,Bachelor,Junior,1.46,19,Rural,46430.0
+60,24,Sales,Master,Mid-level,4.33,19,Urban,158742.0
+24,11,HR,Master,Junior,4.99,12,Suburban,68293.0
+43,29,Operations,High School,Manager,4.45,15,Urban,168473.0
+43,11,Operations,PhD,Junior,3.98,3,Urban,100290.0
+64,19,Engineering,PhD,Director,4.57,10,Urban,457016.0
+27,34,Sales,PhD,Junior,1.71,17,Suburban,123209.0
+53,26,HR,Master,Director,2.76,20,Urban,293635.0
+41,25,Sales,Bachelor,Senior,3.24,20,Suburban,153671.0
+51,23,Engineering,High School,Director,2.95,0,Rural,155433.0
+50,24,Marketing,Master,Lead,3.77,11,Rural,158920.0
+49,5,HR,Master,Manager,2.18,3,Urban,153881.0
+27,13,Sales,Bachelor,Mid-level,3.64,14,Rural,81620.0
+45,10,Operations,PhD,Director,2.77,16,Suburban,223803.0
+55,33,Operations,PhD,Mid-level,2.49,8,Rural,129919.0
+40,38,Sales,Bachelor,Manager,2.49,13,Rural,180734.0
+63,1,Marketing,Master,Senior,3.46,14,Rural,93001.0
+34,18,Finance,High School,Junior,2.34,3,Rural,51503.0
+65,21,Operations,Bachelor,Mid-level,2.42,9,Suburban,74125.0
+39,34,Finance,Bachelor,Mid-level,4.72,10,Urban,172817.0
+31,4,Sales,PhD,Manager,3.53,17,Rural,206777.0
+62,18,Sales,Bachelor,Lead,4.91,20,Rural,131141.0
+38,4,HR,Master,Director,3.8,10,Suburban,221383.0
+59,34,Engineering,PhD,Junior,1.2,15,Rural,122625.0
+47,11,Marketing,High School,Director,3.53,20,Urban,155145.0
+37,6,Operations,PhD,Director,3.4,3,Rural,205370.0
+29,20,Engineering,High School,Junior,3.08,15,Suburban,71882.0
+28,36,Operations,Bachelor,Mid-level,3.96,0,Urban,127594.0
+34,4,Engineering,Master,Senior,4.94,7,Urban,216101.0
+27,14,HR,PhD,Junior,2.66,12,Rural,69237.0
+64,40,Operations,PhD,Lead,1.05,6,Urban,247305.0
+23,11,HR,High School,Manager,1.47,8,Rural,63122.0
+31,6,Sales,High School,Lead,2.26,3,Rural,78478.0
+50,4,HR,Master,Manager,2.57,20,Suburban,138853.0
+50,26,HR,PhD,Mid-level,4.22,13,Rural,121283.0
+59,29,Engineering,Bachelor,Lead,1.53,10,Rural,154424.0
+55,9,Marketing,Master,Mid-level,2.29,7,Suburban,90862.0
+40,35,Operations,Bachelor,Junior,2.31,3,Suburban,64184.0
+50,9,Engineering,Bachelor,Junior,2.35,12,Urban,69652.0
+54,8,Marketing,PhD,Mid-level,2.57,19,Rural,97836.0
+28,9,Finance,High School,Mid-level,3.46,3,Suburban,73117.0
+53,32,HR,High School,Senior,2.99,2,Suburban,79566.0
+28,20,HR,Bachelor,Mid-level,1.8,14,Rural,69859.0
+49,21,Marketing,Master,Mid-level,4.83,10,Urban,135005.0
+50,26,HR,High School,Mid-level,2.36,4,Suburban,63079.0
+49,26,HR,High School,Manager,4.18,11,Urban,142121.0
+37,10,Sales,High School,Junior,1.72,10,Suburban,48843.0
+64,33,Marketing,Master,Lead,4.32,3,Rural,179191.0
+41,35,Engineering,High School,Junior,1.9,3,Suburban,64724.0
+27,25,Marketing,PhD,Mid-level,2.33,5,Urban,173840.0
+44,5,Sales,PhD,Mid-level,4.34,16,Suburban,117072.0
+55,26,Engineering,High School,Mid-level,1.59,18,Rural,78324.0
+27,38,Finance,PhD,Lead,1.05,13,Suburban,338571.0
+32,11,Finance,High School,Manager,2.35,5,Rural,123613.0
+65,25,HR,Master,Manager,3.53,20,Suburban,171586.0
+33,36,Sales,Master,Junior,3.88,7,Rural,94988.0
+25,31,Finance,PhD,Director,4.79,10,Rural,411140.0
+37,13,Operations,PhD,Director,3.44,13,Urban,357347.0
+27,34,Finance,PhD,Lead,3.36,15,Urban,406156.0
+38,32,Engineering,PhD,Lead,3.41,17,Rural,318382.0
+61,6,HR,Master,Lead,2.38,20,Suburban,133123.0
+50,3,Sales,Bachelor,Lead,4.61,1,Urban,128537.0
+51,30,Sales,Master,Mid-level,4.44,19,Suburban,150329.0
+48,6,Marketing,Master,Mid-level,1.48,12,Urban,92406.0
+28,26,Sales,Master,Director,2.14,19,Rural,275386.0
+26,7,HR,Bachelor,Director,3.06,7,Rural,115679.0
+49,12,Operations,Master,Director,2.21,8,Urban,241289.0
+48,16,Engineering,High School,Junior,4.0,1,Suburban,56123.0
+64,40,HR,PhD,Manager,4.2,5,Urban,334927.0
+37,33,Marketing,PhD,Lead,2.57,5,Urban,331332.0
+44,39,HR,PhD,Director,4.92,1,Urban,419086.0
+54,25,Finance,High School,Senior,1.15,20,Urban,136282.0
+26,8,Finance,Master,Manager,3.72,0,Urban,238131.0
+45,1,Marketing,PhD,Senior,2.12,15,Rural,106109.0
+51,31,Engineering,Master,Director,1.81,8,Suburban,337327.0
+58,31,Operations,High School,Lead,3.25,5,Rural,100260.0
+47,34,Marketing,Master,Senior,3.71,20,Suburban,200670.0
+65,16,Finance,High School,Mid-level,4.83,8,Rural,61638.0
+37,9,Operations,Bachelor,Junior,4.11,7,Urban,69996.0
+43,29,HR,High School,Director,1.38,13,Suburban,141893.0
+23,17,Sales,Master,Director,4.36,18,Suburban,279372.0
+54,7,Sales,Master,Lead,2.65,14,Urban,169836.0
+49,25,Sales,Master,Director,3.95,12,Suburban,292637.0
+24,9,Finance,Bachelor,Director,4.92,16,Suburban,231191.0
+60,40,Sales,Master,Mid-level,2.85,8,Rural,122417.0
+45,37,HR,Master,Director,4.6,7,Urban,321192.0
+35,37,Sales,High School,Junior,2.2,18,Urban,80280.0
+36,27,Operations,Bachelor,Director,1.38,6,Suburban,208546.0
+33,34,Marketing,PhD,Director,2.87,19,Rural,336166.0
+64,9,Operations,High School,Lead,1.3,19,Suburban,71881.0
+26,31,Marketing,Master,Senior,4.88,1,Rural,164859.0
+45,8,Finance,Bachelor,Manager,4.83,17,Suburban,164381.0
+31,30,Engineering,Bachelor,Junior,1.37,3,Rural,71896.0
+39,25,Sales,High School,Manager,4.14,15,Urban,199668.0
+38,9,Marketing,Bachelor,Junior,3.09,4,Suburban,57949.0
+63,9,Engineering,PhD,Lead,4.2,9,Rural,183193.0
+37,5,HR,Bachelor,Lead,3.45,1,Suburban,103193.0
+22,0,Sales,Bachelor,Director,3.61,9,Suburban,153041.0
+36,12,Sales,Bachelor,Mid-level,4.71,14,Rural,82275.0
+34,20,HR,High School,Senior,3.47,9,Rural,85666.0
+60,25,Operations,PhD,Director,1.56,0,Rural,204636.0
+40,30,Finance,Bachelor,Director,4.69,15,Suburban,291354.0
+63,25,Marketing,High School,Junior,1.04,8,Urban,49420.0
+23,40,Operations,Master,Manager,3.0,14,Suburban,269391.0
+32,30,HR,PhD,Mid-level,4.36,8,Rural,126768.0
+51,22,Marketing,Master,Mid-level,1.09,6,Suburban,111741.0
+22,17,Sales,Master,Manager,2.0,5,Urban,244948.0
+37,3,Operations,Master,Director,1.93,3,Suburban,181118.0
+31,8,Engineering,PhD,Lead,3.78,4,Rural,202743.0
+39,13,Sales,Master,Lead,4.14,2,Urban,242049.0
+25,30,Engineering,PhD,Junior,1.26,0,Urban,151152.0
+52,19,HR,Master,Lead,3.73,12,Suburban,156153.0
+47,21,Marketing,High School,Mid-level,1.55,19,Rural,60716.0
+47,2,HR,PhD,Director,1.95,15,Suburban,177533.0
+54,26,HR,High School,Junior,3.56,17,Rural,40010.0
+29,3,Finance,Master,Manager,3.15,5,Suburban,205926.0
+27,19,Sales,PhD,Mid-level,2.65,20,Rural,146817.0
+25,29,Operations,Bachelor,Junior,2.55,8,Rural,58423.0
+29,29,Engineering,Master,Mid-level,4.44,12,Rural,149504.0
+46,39,Marketing,High School,Director,4.83,5,Rural,166188.0
+65,29,Operations,High School,Director,1.73,4,Urban,159406.0
+24,20,Marketing,Master,Senior,2.79,5,Rural,128865.0
+38,24,Engineering,Bachelor,Director,2.0,14,Urban,342991.0
+42,13,HR,PhD,Senior,4.04,12,Suburban,169676.0
+58,23,Engineering,Bachelor,Manager,2.93,11,Urban,204467.0
+42,10,Operations,Bachelor,Director,4.75,16,Urban,224035.0
+54,31,Engineering,Bachelor,Junior,1.61,5,Rural,66703.0
+61,31,Operations,High School,Junior,1.81,17,Urban,60241.0
+34,1,Sales,High School,Director,1.58,7,Suburban,114958.0
+59,21,Sales,Bachelor,Senior,3.18,20,Urban,147024.0
+62,15,Finance,PhD,Senior,3.59,17,Suburban,215519.0
+58,31,Finance,Bachelor,Manager,1.46,17,Suburban,181557.0
+22,15,HR,PhD,Senior,3.02,2,Suburban,163287.0
+59,11,HR,Bachelor,Mid-level,4.34,12,Suburban,67335.0
+50,8,HR,Master,Senior,2.85,2,Suburban,110010.0
+61,27,Finance,Bachelor,Manager,1.8,14,Urban,216783.0
+62,13,Engineering,Master,Director,2.13,2,Suburban,258111.0
+53,30,Sales,Master,Mid-level,1.91,13,Urban,176306.0
+43,35,Finance,Master,Manager,4.41,10,Rural,277232.0
+64,25,Finance,Bachelor,Lead,1.35,8,Suburban,156364.0
+53,30,Operations,High School,Senior,3.87,3,Urban,109528.0
+54,35,Finance,Master,Junior,1.15,11,Urban,110307.0
+65,1,Sales,PhD,Lead,3.38,5,Suburban,140416.0
+64,5,Finance,High School,Mid-level,2.96,19,Rural,51401.0
+52,36,Operations,High School,Mid-level,3.45,11,Rural,70808.0
+50,9,Engineering,Master,Director,2.18,13,Rural,209075.0
+59,26,Engineering,PhD,Senior,1.86,15,Urban,312453.0
+58,20,Sales,High School,Lead,4.54,20,Suburban,128727.0
+60,19,Engineering,High School,Junior,4.12,10,Suburban,62278.0
+32,7,Engineering,Bachelor,Director,2.8,11,Urban,246955.0
+61,10,Operations,PhD,Mid-level,4.89,4,Urban,127659.0
+27,15,Sales,High School,Junior,3.74,10,Rural,44502.0
+58,14,Operations,Bachelor,Manager,2.92,16,Rural,107721.0
+45,24,Marketing,Master,Lead,1.18,14,Suburban,175831.0
+29,17,Sales,High School,Mid-level,3.79,17,Urban,88906.0
+42,38,Sales,Master,Lead,4.06,8,Suburban,260781.0
+50,7,HR,PhD,Director,2.61,8,Rural,160310.0
+48,31,HR,PhD,Manager,2.5,15,Rural,185504.0
+59,37,Marketing,Bachelor,Junior,4.99,6,Rural,60514.0
+47,20,Engineering,PhD,Lead,2.96,11,Rural,202061.0
+28,9,Operations,High School,Lead,1.33,1,Suburban,79084.0
+36,12,Sales,PhD,Mid-level,4.12,3,Urban,175150.0
+48,40,Finance,Master,Director,3.79,15,Suburban,378829.0
+23,11,Sales,PhD,Senior,4.69,15,Suburban,222275.0
+29,25,Finance,Bachelor,Director,4.48,14,Suburban,292063.0
+65,25,Operations,Master,Lead,4.68,19,Rural,158479.0
+35,37,Engineering,Master,Lead,4.68,7,Suburban,315260.0
+42,27,Sales,PhD,Director,4.98,4,Rural,331255.0
+35,31,Engineering,High School,Director,1.24,17,Rural,217619.0
+41,17,HR,Master,Junior,1.67,8,Suburban,60540.0
+41,14,Sales,Master,Junior,1.18,15,Rural,64830.0
+59,39,Engineering,High School,Mid-level,3.0,12,Rural,91147.0
+41,37,Marketing,High School,Manager,3.96,7,Urban,184016.0
+56,5,Sales,Master,Mid-level,2.53,4,Rural,76144.0
+63,0,Finance,High School,Junior,4.61,5,Suburban,38762.0
+57,26,Engineering,High School,Junior,2.63,7,Urban,72898.0
+57,31,HR,Bachelor,Director,3.61,17,Urban,252090.0
+64,34,Engineering,High School,Manager,1.53,14,Urban,191800.0
+25,39,Marketing,Master,Junior,3.85,9,Suburban,102948.0
+54,33,Finance,Master,Lead,2.5,14,Rural,196010.0
+60,2,Sales,PhD,Mid-level,1.36,7,Suburban,88414.0
+51,20,Engineering,Bachelor,Lead,3.48,18,Urban,226526.0
+53,40,Sales,PhD,Lead,1.31,9,Urban,336003.0
+34,18,Sales,PhD,Mid-level,2.21,17,Urban,202709.0
+40,20,Operations,High School,Mid-level,1.8,17,Suburban,66425.0
+38,39,Sales,Bachelor,Director,4.73,12,Suburban,307429.0
+45,0,Marketing,Master,Junior,3.71,20,Rural,52058.0
+58,8,Sales,Bachelor,Director,2.13,1,Rural,117762.0
+31,4,Engineering,Master,Senior,3.38,18,Suburban,195442.0
+52,37,HR,Bachelor,Lead,1.58,19,Suburban,150698.0
+33,18,Engineering,High School,Mid-level,3.96,17,Urban,112169.0
+41,0,Marketing,Master,Mid-level,4.42,0,Rural,72258.0
+25,3,Marketing,Master,Director,3.15,3,Urban,215135.0
+58,13,Operations,Bachelor,Manager,4.52,1,Rural,114572.0
+23,19,Finance,High School,Lead,4.77,6,Urban,154294.0
+52,33,HR,PhD,Mid-level,2.84,17,Suburban,134389.0
+36,17,Sales,Bachelor,Junior,3.15,14,Rural,58727.0
+40,8,HR,Bachelor,Lead,2.46,0,Rural,80008.0
+40,18,Finance,PhD,Manager,4.94,3,Urban,347079.0
+32,34,Engineering,Bachelor,Mid-level,4.68,15,Suburban,137457.0
+54,40,Finance,PhD,Junior,4.27,7,Rural,125051.0
+65,1,Sales,High School,Manager,3.72,4,Suburban,83523.0
+25,2,Engineering,High School,Junior,1.5,5,Suburban,34187.0
+41,14,Marketing,PhD,Director,1.83,15,Suburban,248609.0
+51,21,Marketing,Bachelor,Mid-level,4.38,10,Rural,75030.0
+39,26,Marketing,PhD,Junior,2.13,9,Rural,90589.0
+56,33,HR,Master,Manager,2.87,6,Urban,274441.0
+64,6,Sales,Master,Lead,2.29,7,Urban,158243.0
+59,1,Operations,PhD,Lead,1.39,11,Suburban,124562.0
+31,28,HR,High School,Junior,4.44,18,Urban,68095.0
+26,35,Finance,High School,Junior,2.6,5,Urban,92786.0
+45,0,Marketing,PhD,Senior,2.23,14,Rural,126754.0
+24,21,Engineering,Master,Junior,2.07,12,Urban,122580.0
+49,22,HR,High School,Lead,4.46,1,Rural,79273.0
+47,38,Operations,High School,Senior,3.47,19,Suburban,113119.0
+41,27,Finance,Bachelor,Director,1.24,11,Suburban,259388.0
+42,32,HR,High School,Manager,4.66,7,Suburban,138922.0
+48,31,HR,Master,Lead,4.61,5,Suburban,193946.0
+60,2,HR,PhD,Manager,2.0,2,Urban,154184.0
+41,33,Engineering,PhD,Manager,3.26,10,Rural,320307.0
+65,25,HR,Bachelor,Mid-level,2.73,12,Urban,87970.0
+35,4,HR,High School,Senior,3.17,13,Urban,96417.0
+62,5,Engineering,Master,Director,3.66,5,Rural,175357.0
+50,34,Sales,High School,Junior,3.94,20,Urban,77569.0
+37,6,Sales,PhD,Mid-level,1.69,4,Rural,125248.0
+25,21,Marketing,Bachelor,Senior,2.75,12,Rural,120954.0
+58,12,Sales,High School,Lead,3.06,2,Suburban,81482.0
+24,22,Finance,High School,Director,2.48,16,Rural,158999.0
+36,8,Marketing,High School,Senior,2.08,13,Rural,64770.0
+22,39,Finance,Bachelor,Mid-level,3.17,17,Suburban,137077.0
+24,25,Engineering,Master,Senior,3.21,2,Suburban,228161.0
+26,4,Finance,PhD,Lead,1.08,15,Urban,244207.0
+25,25,Operations,PhD,Junior,1.99,6,Rural,77383.0
+44,3,Marketing,PhD,Manager,3.56,2,Rural,163793.0
+33,18,Marketing,PhD,Director,3.04,14,Urban,383978.0
+25,21,Sales,High School,Senior,4.99,19,Rural,109943.0
+36,25,Operations,Master,Senior,3.66,11,Suburban,176942.0
+48,3,Marketing,Master,Director,4.46,7,Urban,217375.0
+24,18,Sales,Bachelor,Mid-level,4.54,10,Suburban,88562.0
+27,3,Sales,Master,Junior,3.11,0,Suburban,71900.0
+46,5,Finance,PhD,Director,3.47,11,Rural,245129.0
+50,20,Engineering,PhD,Junior,4.24,3,Urban,147760.0
+24,19,Marketing,High School,Director,3.08,16,Suburban,159183.0
+56,36,Engineering,Master,Lead,3.01,0,Urban,297139.0
+46,31,Finance,High School,Junior,1.69,12,Urban,71287.0
+40,24,HR,PhD,Lead,4.2,5,Rural,182977.0
+28,30,Marketing,Master,Senior,2.25,1,Rural,158810.0
+28,38,HR,PhD,Director,4.15,13,Rural,325839.0
+35,37,Marketing,Bachelor,Junior,2.13,19,Rural,69811.0
+33,37,Operations,Master,Director,2.79,5,Suburban,305675.0
+39,23,HR,PhD,Senior,3.45,8,Rural,172498.0
+64,15,Marketing,Master,Director,1.43,1,Suburban,184997.0
+31,30,HR,Master,Mid-level,3.68,1,Urban,145794.0
+30,34,Sales,PhD,Director,4.55,2,Rural,343844.0
+26,31,HR,PhD,Junior,3.0,18,Urban,127745.0
+35,21,Marketing,PhD,Senior,1.87,19,Rural,191286.0
+22,33,Operations,Master,Director,4.49,16,Rural,265366.0
+26,1,Finance,Bachelor,Manager,3.32,18,Urban,203248.0
+65,21,Marketing,Bachelor,Mid-level,2.12,0,Suburban,78546.0
+22,36,Operations,Bachelor,Manager,3.98,9,Urban,219558.0
+59,15,HR,High School,Junior,2.08,10,Suburban,39823.0
+56,16,Operations,PhD,Senior,1.95,1,Suburban,126908.0
+58,24,Marketing,Bachelor,Lead,1.4,6,Suburban,110351.0
+38,38,Marketing,PhD,Lead,4.58,11,Suburban,316865.0
+29,15,Marketing,Bachelor,Mid-level,2.49,4,Rural,65307.0
+51,21,Sales,Master,Senior,2.2,18,Rural,157905.0
+23,15,Marketing,High School,Lead,3.24,13,Suburban,108659.0
+22,19,Marketing,Master,Lead,4.14,19,Rural,165453.0
+30,32,Finance,High School,Director,3.6,5,Suburban,234137.0
+33,39,Sales,PhD,Mid-level,1.01,0,Suburban,176882.0
+44,22,Marketing,PhD,Mid-level,4.98,16,Suburban,157296.0
+45,12,Marketing,PhD,Lead,3.02,20,Urban,261066.0
+62,32,Marketing,Bachelor,Junior,4.03,3,Suburban,63318.0
+23,35,Sales,High School,Mid-level,2.8,8,Urban,111993.0
+38,30,Operations,Master,Mid-level,3.78,20,Urban,168975.0
+30,5,Marketing,High School,Mid-level,2.04,10,Urban,74834.0
+61,0,Finance,Bachelor,Lead,2.48,10,Suburban,90361.0
+32,36,Finance,High School,Mid-level,3.38,9,Rural,92307.0
+64,7,HR,PhD,Mid-level,2.62,16,Rural,80193.0
+28,40,Finance,PhD,Director,2.83,13,Urban,566822.0
+33,39,Operations,PhD,Mid-level,3.9,10,Suburban,190235.0
+32,18,Sales,Master,Senior,4.07,4,Suburban,198229.0
+47,11,Operations,High School,Manager,2.42,10,Urban,118663.0
+58,30,Sales,High School,Lead,1.76,3,Rural,89383.0
+24,8,HR,Master,Director,2.84,17,Suburban,179429.0
+49,13,Marketing,Bachelor,Director,4.29,16,Suburban,166319.0
+46,23,Marketing,Bachelor,Senior,4.15,11,Urban,152056.0
+39,24,Operations,Bachelor,Junior,1.75,18,Rural,57034.0
+31,31,Sales,Master,Manager,4.81,0,Suburban,281136.0
+65,37,Sales,PhD,Director,3.76,5,Suburban,352512.0
+24,13,Finance,PhD,Lead,2.88,14,Urban,313653.0
+24,0,Marketing,High School,Senior,4.91,11,Urban,105510.0
+43,35,Marketing,Master,Mid-level,3.41,12,Rural,114975.0
+57,11,Operations,Bachelor,Director,2.94,0,Urban,164927.0
+43,16,Marketing,PhD,Manager,3.23,8,Suburban,223437.0
+61,9,Operations,High School,Lead,3.58,17,Rural,63798.0
+23,25,Marketing,Bachelor,Director,1.87,2,Urban,222601.0
+45,5,HR,Bachelor,Senior,3.15,14,Suburban,81846.0
+24,17,HR,Master,Junior,1.78,20,Suburban,74400.0
+50,1,Engineering,PhD,Junior,2.35,1,Suburban,85946.0
+59,24,Operations,PhD,Junior,3.7,15,Urban,105451.0
+48,12,Engineering,Master,Mid-level,2.16,20,Suburban,123423.0
+46,26,Finance,Master,Lead,1.88,13,Suburban,233336.0
+65,33,Engineering,High School,Manager,2.45,11,Suburban,160196.0

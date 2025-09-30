@@ -1,0 +1,42 @@
+{
+  "data_summary": {
+    "sample_size": 1000,
+    "features": [
+      "age",
+      "years_experience",
+      "department",
+      "education_level",
+      "job_title",
+      "performance_rating",
+      "overtime_hours",
+      "location",
+      "salary"
+    ]
+  },
+  "models": {
+    "Linear_years_experience": {
+      "slope": 2716.5175601464384,
+      "intercept": 108428.77604522434,
+      "r2": 0.06341921664151307,
+      "mse": 6738693876.564641
+    },
+    "Linear_age": {
+      "slope": -1016.9529870704791,
+      "intercept": 207237.58612751777,
+      "r2": 0.022424439795523776,
+      "mse": 7033651083.25918
+    },
+    "Linear_performance_rating": {
+      "slope": 9858.146300489507,
+      "intercept": 133234.7858236931,
+      "r2": 0.018365026275103613,
+      "mse": 7062858542.47525
+    },
+    "Linear_overtime_hours": {
+      "slope": 1077.5004865107092,
+      "intercept": 151723.018168064,
+      "r2": -0.008348233162937202,
+      "mse": 7255060305.523068
+    }
+  }
+}
